@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+}
+
+body{
+    background-color: rgb(231, 183, 128);
+}
+
+p{
+    text-align: center;
+}
+
+.nama{
+    color: rgb(128, 49, 49);
+}
+
+.panggilan{
+    color: rgb(91, 121, 58);
+}
+
+.tanggal{
+    color: brown;
+}
+
+.tempat{
+    color: rgb(122, 48, 48);
+}
+
+.hobby{
+    color: rgb(83, 60, 25);
+}
+
+.sil{
+    color: rgb(151, 78, 78);
+}
+
+.jur{
+    color: rgb(133, 46, 46);
+}
+
+.cit{
+    color: brown;
+}
+
+.
